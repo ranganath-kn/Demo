@@ -7,5 +7,6 @@
 		<h2> This is a WAR package built using Maven </h2>
 		<h3> This utilizes Webhook for Pipeline trigger </h3>
 		<h3> Utilizing Jenkins pipeline code </h3>
+		<h3> UPDATE </h3>
 	</body>
 </html>
